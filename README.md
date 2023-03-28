@@ -1,4 +1,4 @@
-# css-clock
+# Digital and Analog-Clock
 
 Built with css and javascript.
 
